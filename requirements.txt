@@ -1,0 +1,5 @@
+Telethon>=1.43,<2
+python-telegram-bot>=22.7,<23
+rich>=15,<16
+aiosqlite>=0.22,<1
+PySocks>=1.7,<2
